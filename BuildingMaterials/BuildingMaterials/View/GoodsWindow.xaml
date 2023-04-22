@@ -1,0 +1,63 @@
+﻿<Window x:Class="BuildingMaterials.View.GoodsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BuildingMaterials.View" xmlns:local1="clr-namespace:BuildingMaterials.Converters"
+        mc:Ignorable="d"
+        Title="GoodsWindow" Height="610" Width="1060" MinHeight="610" MinWidth="1060" 
+        MaxWidth="1060" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <local1:ImageConverter x:Key="ImageConverter"/>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.1*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="1">
+            <Border Background="GhostWhite" BorderBrush="Black" BorderThickness="3">
+                <ListView  SelectedItem="{Binding SelectedProduct}"
+                ItemsSource="{Binding Product}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" Margin="10">
+                                <Border Background="GhostWhite" BorderBrush="Black" BorderThickness="1">
+                                    <Image Source="{Binding ProductPhoto, Converter={StaticResource ImageConverter}}" Width="200" Height="200"/>
+                                </Border>
+                                <Border Background="GhostWhite" BorderBrush="Black" BorderThickness="1">
+                                    <StackPanel Margin="10" MinWidth="550">
+                                        <TextBlock Text="{Binding ProductName}" FontWeight="Bold" Margin="3"/>
+                                        <TextBlock Text="{Binding Description}" TextWrapping="Wrap" Margin="3"/>
+                                        <Label Content="Производитель: " Margin="3"/>
+                                        <TextBlock Text="{Binding Manufacturer.ManufacturerName}" FontStyle="Italic" Margin="3"/>
+                                        <Label Content="Цена: " Margin="3"/>
+                                        <TextBlock Text="{Binding ProductPrice}" FontWeight="Bold" Margin="3"/>
+                                    </StackPanel>
+                                </Border>
+                                <Border Background="GhostWhite" BorderBrush="Black" BorderThickness="1">
+                                    <StackPanel Margin="10" HorizontalAlignment="Center" MinWidth="200" VerticalAlignment="Center">
+                                        <Label Content="Наличие на складе: " Margin="3" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                        <TextBlock Text="{Binding StorageAmount}" Margin="3" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                    </StackPanel>
+                                </Border>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </Border>
+        </Grid>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Content="Добавить" Margin="10" Name="AddNewItem" Click="AddNewItem_Click"/>
+            <Button Content="Изменить" Margin="10" Name="RewriteItem" Click="RewriteItem_Click" Grid.Column="1"/>
+            <Button Content="Удалить" Margin="10" Name="DeleteItem" Click="DeleteItem_Click" Grid.Column="2"/>
+        </Grid>
+    </Grid>
+</Window>

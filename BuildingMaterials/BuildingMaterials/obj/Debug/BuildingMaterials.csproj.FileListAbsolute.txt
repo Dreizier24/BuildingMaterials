@@ -1,0 +1,83 @@
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.csproj.AssemblyReference.cache
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\obj\Debug\View\AppMainWindow.g.cs
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\obj\Debug\View\MainWindow.g.cs
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\obj\Debug\App.g.cs
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials_Content.g.cs
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials_MarkupCompile.cache
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials_MarkupCompile.lref
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\bin\Debug\BuildingMaterials.exe.config
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\bin\Debug\BuildingMaterials.exe
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\bin\Debug\BuildingMaterials.pdb
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\bin\Debug\EntityFramework.dll
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\bin\Debug\EntityFramework.xml
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\bin\Debug\ru\EntityFramework.resources.dll
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\obj\Debug\View\AppMainWindow.baml
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\obj\Debug\View\MainWindow.baml
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.g.resources
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.Properties.Resources.resources
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.csproj.GenerateResource.cache
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.csproj.CoreCompileInputs.cache
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.csproj.CopyComplete
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.exe
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.pdb
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\obj\Debug\View\AddOrRewriteProductWindow.g.cs
+E:\ProektVS\demo\BuildingMaterials\BuildingMaterials\obj\Debug\View\AddOrRewriteProductWindow.baml
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\bin\Debug\BuildingMaterials.exe.config
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\bin\Debug\BuildingMaterials.exe
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\bin\Debug\BuildingMaterials.pdb
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\bin\Debug\EntityFramework.dll
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\bin\Debug\EntityFramework.xml
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\bin\Debug\ru\EntityFramework.resources.dll
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.csproj.AssemblyReference.cache
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\View\AddOrRewriteProductWindow.g.cs
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\View\AppMainWindow.g.cs
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\View\GoodsWindow.g.cs
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\View\MainWindow.g.cs
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\App.g.cs
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials_Content.g.cs
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials_MarkupCompile.cache
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials_MarkupCompile.lref
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\View\AddOrRewriteProductWindow.baml
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\View\AppMainWindow.baml
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\View\MainWindow.baml
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\View\GoodsWindow.baml
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.g.resources
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.Properties.Resources.resources
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.csproj.GenerateResource.cache
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.csproj.CoreCompileInputs.cache
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.csproj.CopyComplete
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.exe
+E:\ProektVS\demo\Строительный магазин\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.pdb
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\bin\Debug\BuildingMaterials.exe.config
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\bin\Debug\BuildingMaterials.exe
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\bin\Debug\BuildingMaterials.pdb
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\bin\Debug\EntityFramework.dll
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\bin\Debug\EntityFramework.xml
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\bin\Debug\ru\EntityFramework.resources.dll
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.csproj.AssemblyReference.cache
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\View\AddOrRewriteProductWindow.g.cs
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\View\AppMainWindow.g.cs
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\View\GoodsWindow.g.cs
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\View\MainWindow.g.cs
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\App.g.cs
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials_Content.g.cs
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials_MarkupCompile.cache
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials_MarkupCompile.lref
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\View\AddOrRewriteProductWindow.baml
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\View\AppMainWindow.baml
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\View\GoodsWindow.baml
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\View\MainWindow.baml
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.g.resources
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.Properties.Resources.resources
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.csproj.GenerateResource.cache
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.csproj.CoreCompileInputs.cache
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.csproj.CopyComplete
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.exe
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\BuildingMaterials.pdb
+E:\ProektVS\demo\StroiMagaz\BuildingMaterials\BuildingMaterials\obj\Debug\GeneratedInternalTypeHelper.g.cs

@@ -1,0 +1,74 @@
+﻿<Window x:Class="BuildingMaterials.View.AddOrRewriteProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BuildingMaterials.View"
+        mc:Ignorable="d"
+        Title="AddOrRewriteProductWindow" Height="600" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <Label Content="Название продукта" Margin="10"/>
+            <TextBox Margin="10" Text="{Binding ProductName}"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1">
+            <Label Content="Описание" Margin="10"/>
+            <TextBox Margin="10" Text="{Binding Description}"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <Label Content="Цена" Margin="10"/>
+            <TextBox Margin="10" Text="{Binding ProductPrice}"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="1">
+            <Label Content="Кол-во на складке" Margin="10"/>
+            <TextBox Margin="10" Text="{Binding StorageAmount}"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2">
+            <Label Content="Id производителя" Margin="10"/>
+            <TextBox Margin="10" Text="{Binding ManufacturerId}"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="2">
+            <Label Content="Id поставщика" Margin="10"/>
+            <TextBox Margin="10" Text="{Binding SupplierId}"/>
+        </StackPanel>
+        <StackPanel Grid.Row="4">
+            <Label Content="Id ед. изм." Margin="10"/>
+            <TextBox Margin="10" Text="{Binding UnitId}"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="4">
+            <Label Content="Id категории" Margin="10"/>
+            <TextBox Margin="10" Text="{Binding CategoryId}"/>
+        </StackPanel>
+        <StackPanel Grid.Row="5">
+            <Label Content="Текущая скидка" Margin="10"/>
+            <TextBox Margin="10" Text="{Binding CurrentDiscount}"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="5">
+            <Label Content="Максимальная скидка" Margin="10"/>
+            <TextBox Margin="10" Text="{Binding MaxDiscount}"/>
+        </StackPanel>
+        <StackPanel Grid.Row="6">
+            <Label Content="Артикул" Margin="10"/>
+            <TextBox Margin="10" Text="{Binding Articul}"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="6">
+            <Label Content="Изображение" Margin="10"/>
+            <TextBox Margin="10" Text="{Binding ProductPhoto}"/>
+        </StackPanel>
+        <Button Grid.Row="7" Margin="10" Grid.ColumnSpan="2" Content="Сохранить" Name="SaveButton" Click="SaveButton_Click"/>
+    </Grid>
+</Window>
